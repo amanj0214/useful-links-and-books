@@ -1,2 +1,2 @@
-# Useful-links-and-books
+# Useful links and books
 This repository contains links and books.
