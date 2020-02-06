@@ -13,6 +13,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 ## Blog Posts
 
+* [Statquest Video Index](https://statquest.org/video-index/)
+
 
 ## Vignettes
 
