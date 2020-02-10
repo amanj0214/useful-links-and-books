@@ -19,6 +19,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Statquest Video Index](https://statquest.org/video-index/)
 * [Little Miss Data - Laura Ellis](https://www.littlemissdata.com/)
+* [Understanding summary of `lm()`](http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/)
+* [By Hand Examples - `lm()`, `Naive Bayes`, `k-means`, `decision tree, rpart`] (http://www.learnbymarketing.com/tutorials/)
 
 ## Vignettes
 
