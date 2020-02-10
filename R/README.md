@@ -24,4 +24,5 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 ## Vignettes
 
-*[Infer Package](https://cran.r-project.org/web/packages/infer/index.html) -> [Full Vignette](https://cran.r-project.org/web/packages/infer/vignettes/observed_stat_examples.html)
+* [Infer Package](https://cran.r-project.org/web/packages/infer/index.html) -> [Full Vignette](https://cran.r-project.org/web/packages/infer/vignettes/observed_stat_examples.html)
+* [Pimp my RMD - RMD files help/cheatsheet with examples](https://holtzy.github.io/Pimp-my-rmd/)
