@@ -13,7 +13,7 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/), by Business Science - A proven process for deploying applications in the Cloud with Shiny and AWS.
 
-
+* [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/index.html)
 
 ## Blog Posts
 
