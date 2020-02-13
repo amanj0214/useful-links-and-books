@@ -15,6 +15,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/index.html)
 
+* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
 ## Blog Posts
 
 * [Statquest Video Index](https://statquest.org/video-index/)
