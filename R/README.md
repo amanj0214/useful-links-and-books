@@ -19,6 +19,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Machine Learning with R and H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/RBooklet.pdf)
 
+* [Efficient R programming](https://csgillespie.github.io/efficientR/input-output.html)
+
 ## Blog Posts
 
 * [Statquest Video Index](https://statquest.org/video-index/)
