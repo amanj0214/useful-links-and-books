@@ -21,3 +21,9 @@ This repository contains links and books.
 
 * [AI Crowd] (https://www.aicrowd.com/challenges)
 * [Kaggle] (https://www.kaggle.com/competitions)
+
+
+## Icons URL
+
+* [Colored and b/w](https://www.flaticon.com/)
+* [Fontawesome](https://fontawesome.com/icons?d=gallery)
