@@ -16,6 +16,9 @@ This repository contains links and books.
 * [Uber Research] (https://eng.uber.com/research/)
 * 
 
+## Researchers to follow
+
+* [Rob J Hyndman](https://robjhyndman.com/)
 
 ## Online competitions
 

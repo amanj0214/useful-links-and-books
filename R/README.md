@@ -33,3 +33,16 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Infer Package](https://cran.r-project.org/web/packages/infer/index.html) -> [Full Vignette](https://cran.r-project.org/web/packages/infer/vignettes/observed_stat_examples.html)
 * [Pimp my RMD - RMD files help/cheatsheet with examples](https://holtzy.github.io/Pimp-my-rmd/)
+
+## R packages
+
+* Timeseries
+    * [prophet](https://facebook.github.io/prophet/)
+    * [feasts](https://cran.r-project.org/web/packages/feasts/index.html)
+    * [fable](https://fable.tidyverts.org/)
+	* [forecast](https://cran.r-project.org/web/packages/forecast/index.html)
+	* [tseries](https://cran.r-project.org/web/packages/tseries/index.html)
+* Resampling 
+    * [rsample](https://cran.r-project.org/web/packages/rsample/index.html)
+* Statistical Inference
+	* [infer](https://cran.r-project.org/web/packages/infer/index.html)
