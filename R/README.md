@@ -46,3 +46,5 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
     * [rsample](https://cran.r-project.org/web/packages/rsample/index.html)
 * Statistical Inference
 	* [infer](https://cran.r-project.org/web/packages/infer/index.html)
+* DataTable
+	* [DT](https://rstudio.github.io/DT/)
