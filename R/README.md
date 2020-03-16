@@ -6,6 +6,8 @@ List of R resources
 
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/index.html)
 
+* [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/)
+
 * [Statistical Inference via Data Science A ModernDive into R and the tidyverse](https://moderndive.com/index.html)
 
 * [OpenIntro Statistics](https://www.openintro.org/book/os/) - 
