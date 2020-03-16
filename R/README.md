@@ -34,6 +34,7 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 * [Understanding summary of `lm()`](http://www.learnbymarketing.com/tutorials/explaining-the-lm-summary-in-r/)
 * [By Hand Examples - `lm()`, `Naive Bayes`, `k-means`, `decision tree, rpart`] (http://www.learnbymarketing.com/tutorials/)
 * [Machine Learning with Signal Processing Techniques - Time Series Techniques](http://ataspinar.com/2018/04/04/machine-learning-with-signal-processing-techniques/)
+* [How to get your very own RStudio Server and Shiny Server with DigitalOcean](https://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/)
 
 ## Vignettes
 
