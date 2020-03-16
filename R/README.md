@@ -5,26 +5,16 @@ List of R resources
 ## Books
 
 * [Engineering Production-Grade Shiny Apps](https://thinkr-open.github.io/building-shiny-apps-workflow/index.html)
-
 * [Supplement to Shiny in Production](https://kellobri.github.io/shiny-prod-book/)
-
 * [Statistical Inference via Data Science A ModernDive into R and the tidyverse](https://moderndive.com/index.html)
-
 * [OpenIntro Statistics](https://www.openintro.org/book/os/) - 
 OpenIntro Statistics is a dynamic take on the traditional curriculum, being successfully used at Community Colleges to the Ivy League
-
 * [The Shiny AWS Book](https://business-science.github.io/shiny-production-with-aws-book/), by Business Science - A proven process for deploying applications in the Cloud with Shiny and AWS.
-
 * [Advanced R by Hadley Wickham](https://adv-r.hadley.nz/index.html)
-
 * [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
-
 * [Machine Learning with R and H2O](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/booklets/RBooklet.pdf)
-
 * [Efficient R programming](https://csgillespie.github.io/efficientR/input-output.html)
-
 * [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com/)
-
 * [R for Data Science](https://r4ds.had.co.nz/)
 
 ## Blog Posts
