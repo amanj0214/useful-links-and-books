@@ -21,6 +21,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Efficient R programming](https://csgillespie.github.io/efficientR/input-output.html)
 
+* [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com/)
+
 ## Blog Posts
 
 * [Statquest Video Index](https://statquest.org/video-index/)
