@@ -23,6 +23,8 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 
 * [Text Mining with R - A Tidy Approach](https://www.tidytextmining.com/)
 
+* [R for Data Science](https://r4ds.had.co.nz/)
+
 ## Blog Posts
 
 * [Statquest Video Index](https://statquest.org/video-index/)
