@@ -45,3 +45,11 @@ OpenIntro Statistics is a dynamic take on the traditional curriculum, being succ
 	* [infer](https://cran.r-project.org/web/packages/infer/index.html)
 * DataTable
 	* [DT](https://rstudio.github.io/DT/)
+* Shiny
+	* [htmlwidgets for R](http://www.htmlwidgets.org/)
+	* [shinycssloaders](https://github.com/daattali/shinycssloaders)
+	* [shinyWidgets](https://dreamrs.github.io/shinyWidgets/index.html)
+	* [ShinyDashboard](https://rstudio.github.io/shinydashboard/)
+	* [A comprehensive list of awesome packages](https://github.com/nanxstats/awesome-shiny-extensions)
+	
+	
