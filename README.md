@@ -1,7 +1,8 @@
 # Useful links and books
 This repository contains links and books.
 
-## Technology blogsites
+
+## Technology blogsites.
 
 * [Stitch Fix](https://multithreaded.stitchfix.com/)
 * [Uber Engineering](https://eng.uber.com/)
