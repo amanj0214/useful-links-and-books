@@ -31,3 +31,8 @@ This repository contains links and books.
 
 * [Colored and b/w](https://www.flaticon.com/)
 * [Fontawesome](https://fontawesome.com/icons?d=gallery)
+
+## General Help
+
+* [Regex Helper](https://regexr.com/)
+* [CRON Schedule Helper](https://crontab.guru/)
