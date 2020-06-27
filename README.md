@@ -1,7 +1,6 @@
 # Useful links and books
 This repository contains links and books.
 
-
 ## Technology blogsites.
 
 * [Stitch Fix](https://multithreaded.stitchfix.com/)
