@@ -35,3 +35,7 @@ This repository contains links and books.
 
 * [Regex Helper](https://regexr.com/)
 * [CRON Schedule Helper](https://crontab.guru/)
+
+## Conferences & Webinars
+
+* [Moody's Analytics](https://events.moodys.io/)
