@@ -30,13 +30,13 @@ This repository contains links and books.
 
 * [Colored and b/w](https://www.flaticon.com/)
 * [Fontawesome](https://fontawesome.com/icons?d=gallery)
+* [Emojis Wiki](https://emojis.wiki/)
 
 ## General Help
 
 * [Regex Helper](https://regexr.com/)
 * [CRON Schedule Helper](https://crontab.guru/)
 * [Chart Formations](http://chart-formations.com/)
-* [Emojis Wiki](https://emojis.wiki/)
 
 ## Conferences & Webinars
 
