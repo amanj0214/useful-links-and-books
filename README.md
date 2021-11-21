@@ -26,11 +26,12 @@ This repository contains links and books.
 * [Kaggle](https://www.kaggle.com/competitions)
 
 
-## Icons URL
+## Icons & Colors URL
 
 * [Colored and b/w](https://www.flaticon.com/)
 * [Fontawesome](https://fontawesome.com/icons?d=gallery)
 * [Emojis Wiki](https://emojis.wiki/)
+* [Color HEX](https://www.colorhexa.com/)
 
 ## General Help
 
