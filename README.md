@@ -32,6 +32,7 @@ This repository contains links and books.
 * [Fontawesome](https://fontawesome.com/icons?d=gallery)
 * [Emojis Wiki](https://emojis.wiki/)
 * [Color HEX](https://www.colorhexa.com/)
+* [Text emoticons ](https://www.emoticonstext.com/) ( •_•)
 
 ## General Help
 
