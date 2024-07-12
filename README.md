@@ -9,6 +9,8 @@ This repository contains links and books.
 * [Spotify Labs](https://labs.spotify.com/)
 * [Facebook Engineering](https://engineering.fb.com/)
 * [Google AI Blog](https://blog.google/technology/ai/)
+* [The Batch by Deep Learning AI, Weekly Once](https://www.deeplearning.ai/the-batch/)
+* 
 
 ## Research Paper Website
 
@@ -19,6 +21,8 @@ This repository contains links and books.
 ## Researchers to follow
 
 * [Rob J Hyndman](https://robjhyndman.com/)
+* [Allen Downey](https://www.allendowney.com/blog/)
+* 
 
 ## Online competitions
 
